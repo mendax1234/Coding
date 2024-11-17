@@ -6,3 +6,10 @@
 
 * [Vim](environment-setup/vim.md)
 * [C](environment-setup/c.md)
+
+## Kattis
+
+* [Easy](kattis/easy/README.md)
+  * [A Second Opinion](kattis/easy/a-second-opinion.md)
+  * [A Shortcut to What?](kattis/easy/a-shortcut-to-what.md)
+  * [A Stack of Gold](kattis/easy/a-stack-of-gold.md)
