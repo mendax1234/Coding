@@ -17,3 +17,4 @@
   * [ACM Contest Scoring](kattis/easy/acm-contest-scoring.md)
   * [ASCII kassi](kattis/easy/ascii-kassi.md)
   * [Aaah!](kattis/easy/aaah.md)
+  * [Add Two Numbers](kattis/easy/add-two-numbers.md)
