@@ -5,7 +5,8 @@
 ## Environment Setup
 
 * [Vim](environment-setup/vim.md)
-* [C](environment-setup/c.md)
+* [C](environment-setup/c/README.md)
+  * [C Standard Library](environment-setup/c/c-standard-library.md)
 
 ## Kattis
 
