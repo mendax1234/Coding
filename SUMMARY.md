@@ -16,3 +16,4 @@
   * [A Stack of Gold](kattis/easy/a-stack-of-gold.md)
   * [ACM Contest Scoring](kattis/easy/acm-contest-scoring.md)
   * [ASCII kassi](kattis/easy/ascii-kassi.md)
+  * [Aaah!](kattis/easy/aaah.md)
