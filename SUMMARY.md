@@ -19,3 +19,4 @@
   * [Aaah!](kattis/easy/aaah.md)
   * [Add Two Numbers](kattis/easy/add-two-numbers.md)
   * [Adding Trouble](kattis/easy/adding-trouble.md)
+  * [Afjörmun](kattis/easy/afjormun.md)
