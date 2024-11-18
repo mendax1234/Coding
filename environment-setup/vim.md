@@ -44,7 +44,9 @@ The way Windows manages vim plugins is a bit different from how Ubuntu/macOS man
 
 It's all done!
 
-## Copy paste your Code
+## Useful Tips
+
+### Copy paste your Code
 
 To copy your code written on WSL Vim to your Windows clipboard. We can do a vim visual selection then do the command:
 
