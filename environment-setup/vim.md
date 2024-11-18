@@ -43,3 +43,17 @@ The way Windows manages vim plugins is a bit different from how Ubuntu/macOS man
 3. Copy the `.vim/pack/` folder to the `vimfiles/`.
 
 It's all done!
+
+## Copy paste your Code
+
+To copy your code written on WSL Vim to your Windows clipboard. We can do a vim visual selection then do the command:
+
+```vim
+:'<,'>w !clip.exe
+```
+
+The following command saves the whole file to the clipboard (not the requirement):
+
+```vim
+:w !clip.exe
+```
