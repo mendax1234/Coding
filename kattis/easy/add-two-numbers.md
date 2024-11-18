@@ -1,6 +1,6 @@
 # Add Two Numbers
 
-Question:
+## Question
 
 {% embed url="https://open.kattis.com/problems/addtwonumbers" %}
 

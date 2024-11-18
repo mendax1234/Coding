@@ -1,6 +1,6 @@
 # Afjörmun
 
-Question:
+## Question
 
 {% embed url="https://open.kattis.com/problems/afjormun" %}
 
@@ -26,3 +26,16 @@ if (fgets(line[i], MAX_LEN, stdin))
 }
 ```
 {% endcode %}
+
+### Read an integer with newline
+
+Suppose we input **an** integer with `\n`, to read it into a variable using `scanf()`, use the code below:
+
+{% code lineNumbers="true" %}
+```c
+int a;
+scanf("%d\n", &a);
+```
+{% endcode %}
+
+The trailing `\n` is used for `scanf()` to consume/parse the newline character.

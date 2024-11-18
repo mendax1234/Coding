@@ -1,6 +1,6 @@
 # A Second Opinion
 
-Question:
+## Question
 
 {% embed url="https://open.kattis.com/problems/secondopinion" %}
 

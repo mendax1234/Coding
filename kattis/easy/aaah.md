@@ -1,6 +1,6 @@
 # Aaah!
 
-Question:
+## Question
 
 {% embed url="https://open.kattis.com/problems/aaah" %}
 

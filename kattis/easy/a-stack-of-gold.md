@@ -1,6 +1,6 @@
 # A Stack of Gold
 
-Question:
+## Question
 
 {% embed url="https://open.kattis.com/problems/astackofgold" %}
 

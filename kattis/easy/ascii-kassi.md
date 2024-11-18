@@ -1,6 +1,6 @@
 # ASCII kassi
 
-Question:
+## Question
 
 {% embed url="https://open.kattis.com/problems/asciikassi" %}
 

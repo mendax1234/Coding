@@ -1,6 +1,6 @@
 # ACM Contest Scoring
 
-Question:
+## Question
 
 {% embed url="https://open.kattis.com/problems/acm" %}
 
