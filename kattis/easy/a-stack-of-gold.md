@@ -1,6 +1,8 @@
 # A Stack of Gold
 
-Question: [Here](https://open.kattis.com/problems/astackofgold)
+Question:
+
+{% embed url="https://open.kattis.com/problems/astackofgold" %}
 
 ## Solution
 
@@ -10,3 +12,4 @@ This problem is a bit interesting. The solution is implemented in $$O(N)$$. Here
 
 ### Code
 
+{% @github-files/github-code-block url="https://github.com/mendax1234/Coding-Problems/blob/main/kattis/astackofgold/astackofgold.c" %}

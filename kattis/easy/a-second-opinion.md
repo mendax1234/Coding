@@ -1,6 +1,8 @@
 # A Second Opinion
 
-Question: [Here](https://open.kattis.com/problems/secondopinion)
+Question:
+
+{% embed url="https://open.kattis.com/problems/secondopinion" %}
 
 ## Solution
 
@@ -17,3 +19,5 @@ For hours, we just need to use integer division `/`, `hours = input secs / 3600`
 Do the similar operation on `minutes`. The remaining are `seconds`.
 
 ### Code
+
+{% @github-files/github-code-block url="https://github.com/mendax1234/Coding-Problems/blob/main/kattis/secondopinion/secondopinion.c" %}
