@@ -31,6 +31,10 @@ if (fgets(line, MAX_LEN, stdin))
 ```
 {% endcode %}
 
+{% hint style="info" %}
+Note that sometimes this method is not 100% safe. So, the safest way I recommend is to use cs1010 library.
+{% endhint %}
+
 ### Read an integer with newline
 
 Suppose we input **an** integer with `\n`, to read it into a variable using `scanf()`, use the code below:

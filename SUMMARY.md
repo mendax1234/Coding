@@ -23,3 +23,4 @@
   * [Airfare Grants](kattis/easy/airfare-grants.md)
   * [Above Average](kattis/easy/above-average.md)
   * [Akcija](kattis/easy/akcija.md)
+  * [Alphabet Spam](kattis/easy/alphabet-spam.md)
