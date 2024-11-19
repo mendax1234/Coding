@@ -24,3 +24,4 @@
   * [Above Average](kattis/easy/above-average.md)
   * [Akcija](kattis/easy/akcija.md)
   * [Alphabet Spam](kattis/easy/alphabet-spam.md)
+  * [Amerískur vinnustaður](kattis/easy/ameriskur-vinnustadur.md)
