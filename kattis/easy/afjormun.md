@@ -12,6 +12,8 @@ I believe the tricky part for this question is to deal with the input in C. The 
 
 ### Code
 
+{% @github-files/github-code-block url="https://github.com/mendax1234/Coding-Problems/blob/main/kattis/afjormun/afjormun.c" %}
+
 ## Take-away
 
 ### Read a line in C

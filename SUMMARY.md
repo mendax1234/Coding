@@ -21,3 +21,4 @@
   * [Adding Trouble](kattis/easy/adding-trouble.md)
   * [Afjörmun](kattis/easy/afjormun.md)
   * [Airfare Grants](kattis/easy/airfare-grants.md)
+  * [Above Average](kattis/easy/above-average.md)
