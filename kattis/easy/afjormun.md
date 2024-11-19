@@ -22,9 +22,11 @@ To read a line in C, it is "safer" to use `fgets()`. See more about it in [fgets
 
 {% code lineNumbers="true" %}
 ```c
-if (fgets(line[i], MAX_LEN, stdin))
+char line[MAX_LEN];
+
+if (fgets(line, MAX_LEN, stdin))
 {
-  line[i][strcspn(line[i], "\n")] = 0;
+  line[strcspn(line, "\n")] = 0;
 }
 ```
 {% endcode %}
