@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 19**
+**Total Problems Solved: 20**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -28,3 +28,4 @@ And there is another separate repository to store the code for each probelm. You
 | Apaxiaaaaaaaaaaaans!  | apaxiaaans          | 1.5        | [apaxiaaaaaaaaaaaans.md](kattis/easy/apaxiaaaaaaaaaaaans.md "mention")     | C        |
 | Arithmetic Functions  | arithmeticfunctions | 1.7        | [arithmetic-functions.md](kattis/easy/arithmetic-functions.md "mention")   | C        |
 | Arm Coordination      | armcoordination     | 1.7        | [arm-coordination.md](kattis/easy/arm-coordination.md "mention")           | C        |
+| Arrangement           | upprodun            | 1.2-1.6    | [arrangement.md](kattis/easy/arrangement.md "mention")                     | C        |

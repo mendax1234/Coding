@@ -29,3 +29,4 @@
   * [Apaxiaaaaaaaaaaaans!](kattis/easy/apaxiaaaaaaaaaaaans.md)
   * [Arithmetic Functions](kattis/easy/arithmetic-functions.md)
   * [Arm Coordination](kattis/easy/arm-coordination.md)
+  * [Arrangement](kattis/easy/arrangement.md)
