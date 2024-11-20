@@ -27,4 +27,4 @@ And there is another separate repository to store the code for each probelm. You
 | A Shortcut to What?   | shortcuttowhat      | 1.2        | [a-shortcut-to-what.md](kattis/easy/a-shortcut-to-what.md "mention")       | C        |
 | Apaxiaaaaaaaaaaaans!  | apaxiaaans          | 1.5        | [apaxiaaaaaaaaaaaans.md](kattis/easy/apaxiaaaaaaaaaaaans.md "mention")     | C        |
 | Arithmetic Functions  | arithmeticfunctions | 1.7        | [arithmetic-functions.md](kattis/easy/arithmetic-functions.md "mention")   | C        |
-| Arm Coordination      | armcoordination     | 1。7        |                                                                            | C        |
+| Arm Coordination      | armcoordination     | 1。7        | [arm-coordination.md](kattis/easy/arm-coordination.md "mention")           | C        |
