@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Welcome
 
 come to my coding notes! This website will contain my notes for the coding questions I do in my spare time, including [LeetCode](https://leetcode.com/u/mendax1234/), [Kattis](https://open.kattis.com/users/wenbo-daniel-zhu) and so on.
@@ -34,7 +20,7 @@ And there is another separate repository to store the code for each probelm. You
 | Airfare Grants        | airfaregrants  | 1.3        | [airfare-grants.md](kattis/easy/airfare-grants.md "mention")               | C        |
 | Alphabet Spam         | alphabetspam   | 1.7        | [alphabet-spam.md](kattis/easy/alphabet-spam.md "mention")                 | C        |
 | Amerískur vinnustaður | ameriskur      | 1.3        | [ameriskur-vinnustadur.md](kattis/easy/ameriskur-vinnustadur.md "mention") | C        |
-| Anti-Palindrome       | antipalindrome | 1.9        |                                                                            | C        |
+| Anti-Palindrome       | antipalindrome | 1.9        | [anti-palindrome.md](kattis/easy/anti-palindrome.md "mention")             | C        |
 | ASCII kassi           | asciikassi     | 1.5        | [ascii-kassi.md](kattis/easy/ascii-kassi.md "mention")                     | C        |
 | A Stack of Gold       | astackofgold   | 1.3        | [a-stack-of-gold.md](kattis/easy/a-stack-of-gold.md "mention")             | C        |
 | A Second Opinion      | secondopinion  | 1.5        | [a-second-opinion.md](kattis/easy/a-second-opinion.md "mention")           | C        |
