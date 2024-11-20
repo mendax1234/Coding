@@ -27,3 +27,4 @@
   * [Amerískur vinnustaður](kattis/easy/ameriskur-vinnustadur.md)
   * [Anti-Palindrome](kattis/easy/anti-palindrome.md)
   * [Apaxiaaaaaaaaaaaans!](kattis/easy/apaxiaaaaaaaaaaaans.md)
+  * [Arithmetic Functions](kattis/easy/arithmetic-functions.md)
