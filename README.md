@@ -25,3 +25,4 @@ And there is another separate repository to store the code for each probelm. You
 | A Stack of Gold       | astackofgold   | 1.3        | [a-stack-of-gold.md](kattis/easy/a-stack-of-gold.md "mention")             | C        |
 | A Second Opinion      | secondopinion  | 1.5        | [a-second-opinion.md](kattis/easy/a-second-opinion.md "mention")           | C        |
 | A Shortcut to What?   | shortcuttowhat | 1.2        | [a-shortcut-to-what.md](kattis/easy/a-shortcut-to-what.md "mention")       | C        |
+| Apaxiaaaaaaaaaaaans!  | apaxiaaans     | 1.5        |                                                                            | C        |

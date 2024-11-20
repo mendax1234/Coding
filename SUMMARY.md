@@ -26,3 +26,4 @@
   * [Alphabet Spam](kattis/easy/alphabet-spam.md)
   * [Amerískur vinnustaður](kattis/easy/ameriskur-vinnustadur.md)
   * [Anti-Palindrome](kattis/easy/anti-palindrome.md)
+  * [Apaxiaaaaaaaaaaaans!](kattis/easy/apaxiaaaaaaaaaaaans.md)
