@@ -32,4 +32,4 @@ And there is another separate repository to store the code for each probelm. You
 | Attendance            | attendance2         | 1.8        | [attendance.md](kattis/easy/attendance.md "mention")                       | C        |
 | Autori                | autori              | 1.3        | [autori.md](kattis/easy/autori.md "mention")                               | C        |
 | Average Character     | averagecharacter    | 1.8        | [average-character.md](kattis/easy/average-character.md "mention")         | C        |
-| Avion                 | avion               | 1.4        | [autori.md](kattis/easy/autori.md "mention")                               | C        |
+| Avion                 | avion               | 1.4        | [avion.md](kattis/easy/avion.md "mention")                                 | C        |
