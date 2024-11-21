@@ -1,8 +1,10 @@
 # C Standard Library
 
+The best way to see how to use a standard libarary function in C is to use Linux Programmer's Manual. The command used is `man <function_name>`.
+
 ## Table
 
-### String.h
+### string.h
 
 | Name                                                          | Description                                                                                                                                                | Return Values                                                                                                                                                                                                             |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,9 +14,17 @@
 | `char *strstr(const char *haystack, const char *needle);`     | The `strstr()` function finds the first occurrence of the substring `needle` in the string `haystack`. The terminating null bytes ('\0') are not compared. | This function return a pointer to the beginning of the located substring, or NULL if the substring is not found.                                                                                                          |
 | `char *strcasestr(const char *haystack, const char *needle);` | The `strcasestr()` function is like `strstr()`, but ignores the case of both arguments.                                                                    | This function return a pointer to the beginning of the located substring, or NULL if the substring is not found.                                                                                                          |
 
+### stdlib.h
+
+| Name                    | Description                                                                                                                                                                                                                                                                                      | Return Values                           |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| `void free(void *ptr);` | The `free()` function frees the memory space pointed to by ptr, which must have been returned by a previous call to `malloc()`, `calloc()`, or `realloc()`. Otherwise, or if `free(ptr)` has already been called before, undefined behavior occurs. If `ptr` is NULL, no operation is performed. | The `free()` function returns no value. |
+
+
+
 ## Example
 
-### String.h
+### string.h
 
 #### strspn
 
