@@ -30,3 +30,4 @@
   * [Arithmetic Functions](kattis/easy/arithmetic-functions.md)
   * [Arm Coordination](kattis/easy/arm-coordination.md)
   * [Arrangement](kattis/easy/arrangement.md)
+  * [Attendance](kattis/easy/attendance.md)
