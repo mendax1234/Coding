@@ -34,3 +34,4 @@
   * [Autori](kattis/easy/autori.md)
   * [Average Character](kattis/easy/average-character.md)
   * [Avion](kattis/easy/avion.md)
+  * [Baby Bites](kattis/easy/baby-bites.md)

@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 24**
+**Total Problems Solved: 25**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -33,3 +33,4 @@ And there is another separate repository to store the code for each probelm. You
 | Autori                | autori              | 1.3        | [autori.md](kattis/easy/autori.md "mention")                               | C        |
 | Average Character     | averagecharacter    | 1.8        | [average-character.md](kattis/easy/average-character.md "mention")         | C        |
 | Avion                 | avion               | 1.4        | [avion.md](kattis/easy/avion.md "mention")                                 | C        |
+| Baby Bites            | babybites           | 1.8        | [baby-bites.md](kattis/easy/baby-bites.md "mention")                       | C        |
