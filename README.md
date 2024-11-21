@@ -1,6 +1,6 @@
 # Welcome
 
-come to my coding notes! This website will contain my notes for the coding questions I do in my spare time, including [LeetCode](https://leetcode.com/u/mendax1234/), [Kattis](https://open.kattis.com/users/wenbo-daniel-zhu) and so on.
+Welcome to my coding notes! This website will contain my notes for the coding questions I do in my spare time, including [LeetCode](https://leetcode.com/u/mendax1234/), [Kattis](https://open.kattis.com/users/wenbo-daniel-zhu) and so on.
 
 And there is another separate repository to store the code for each probelm. You can find it here:
 
@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 23**
+**Total Problems Solved: 24**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -32,3 +32,4 @@ And there is another separate repository to store the code for each probelm. You
 | Attendance            | attendance2         | 1.8        | [attendance.md](kattis/easy/attendance.md "mention")                       | C        |
 | Autori                | autori              | 1.3        | [autori.md](kattis/easy/autori.md "mention")                               | C        |
 | Average Character     | averagecharacter    | 1.8        | [average-character.md](kattis/easy/average-character.md "mention")         | C        |
+| Avion                 | avion               | 1.4        | [autori.md](kattis/easy/autori.md "mention")                               | C        |

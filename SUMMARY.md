@@ -33,3 +33,4 @@
   * [Attendance](kattis/easy/attendance.md)
   * [Autori](kattis/easy/autori.md)
   * [Average Character](kattis/easy/average-character.md)
+  * [Avion](kattis/easy/avion.md)
