@@ -31,3 +31,4 @@ And there is another separate repository to store the code for each probelm. You
 | Arrangement           | upprodun            | 1.2-1.6    | [arrangement.md](kattis/easy/arrangement.md "mention")                     | C        |
 | Attendance            | attendance2         | 1.8        | [attendance.md](kattis/easy/attendance.md "mention")                       | C        |
 | Autori                | autori              | 1.3        | [autori.md](kattis/easy/autori.md "mention")                               | C        |
+| Average Character     | averagecharacter    | 1.8        | [average-character.md](kattis/easy/average-character.md "mention")         | C        |

@@ -32,3 +32,4 @@
   * [Arrangement](kattis/easy/arrangement.md)
   * [Attendance](kattis/easy/attendance.md)
   * [Autori](kattis/easy/autori.md)
+  * [Average Character](kattis/easy/average-character.md)
