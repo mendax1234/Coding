@@ -21,13 +21,3 @@ The best way to see how to use a standard libarary function in C is to use Linux
 | Name                    | Description                                                                                                                                                                                                                                                                                      | Return Values                           |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
 | `void free(void *ptr);` | The `free()` function frees the memory space pointed to by ptr, which must have been returned by a previous call to `malloc()`, `calloc()`, or `realloc()`. Otherwise, or if `free(ptr)` has already been called before, undefined behavior occurs. If `ptr` is NULL, no operation is performed. | The `free()` function returns no value. |
-
-
-
-## Example
-
-### string.h
-
-#### strspn
-
-#### strcspn

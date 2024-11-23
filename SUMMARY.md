@@ -39,3 +39,4 @@
   * [ABC](kattis/easy/abc.md)
   * [Aldur](kattis/easy/aldur.md)
   * [Backspace](kattis/easy/backspace.md)
+  * [Bannorð](kattis/easy/bannord.md)
