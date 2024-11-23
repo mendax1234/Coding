@@ -40,3 +40,4 @@
   * [Aldur](kattis/easy/aldur.md)
   * [Backspace](kattis/easy/backspace.md)
   * [Bannorð](kattis/easy/bannord.md)
+  * [Barcelona](kattis/easy/barcelona.md)
