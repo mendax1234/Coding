@@ -8,6 +8,8 @@
 
 ### Idea
 
+**Time Complexity:** $$O(n)$$
+
 This is an easy **linear search** problem. Nothing special.
 
 ### Code

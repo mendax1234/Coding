@@ -31,6 +31,8 @@ if (fgets(line, MAX_LEN, stdin))
 ```
 {% endcode %}
 
+`MAX_LEN` should be the actual length of the string +1 because `fgets()` may read the `\n` character!
+
 {% hint style="info" %}
 Note that sometimes this method is not 100% safe. So, the safest way I recommend is to use cs1010 library.
 {% endhint %}
@@ -42,8 +44,18 @@ Suppose we input **an** integer with `\n`, to read it into a variable using `sca
 {% code lineNumbers="true" %}
 ```c
 int a;
-scanf("%d\n", &a);
+scanf("%d", &a);
 ```
 {% endcode %}
 
-The trailing `\n` is used for `scanf()` to consume/parse the newline character.
+### Read several integers with newline
+
+This will be a bit tricky. For the first integer, we can still use the method above [#read-an-integer-with-newline](afjormun.md#read-an-integer-with-newline "mention"). But for the remaining integers, we should use the following method to read:
+
+{% code lineNumbers="true" %}
+```c
+scanf("\n%d", &a);
+```
+{% endcode %}
+
+The leading `\n` is used to consume the `\n` that is left in the `stdin`.

@@ -41,3 +41,4 @@
   * [Backspace](kattis/easy/backspace.md)
   * [Bannorð](kattis/easy/bannord.md)
   * [Barcelona](kattis/easy/barcelona.md)
+  * [Basketball One-on-One](kattis/easy/basketball-one-on-one.md)
