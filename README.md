@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 28**
+**Total Problems Solved: 30**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -36,3 +36,5 @@ And there is another separate repository to store the code for each probelm. You
 | Baby Bites            | babybites           | 1.8        | [baby-bites.md](kattis/easy/baby-bites.md "mention")                       | C        |
 | Babylonian Numbers    | babylonian          | 2.0        | [babylonian-numbers.md](kattis/easy/babylonian-numbers.md "mention")       | C        |
 | ABC                   | abc                 | 2.0        | [abc.md](kattis/easy/abc.md "mention")                                     | C        |
+| Aldur                 | aldur               | 1.3        | [aldur.md](kattis/easy/aldur.md "mention")                                 | C        |
+| Backspace             | backspace           | 2.0        | [backspace.md](kattis/easy/backspace.md "mention")                         | C        |

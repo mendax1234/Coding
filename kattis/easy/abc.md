@@ -8,6 +8,8 @@
 
 ### Idea
 
+**Time Complexity:** $$O(1)$$
+
 This problem is not hard, it is a variant of counting sort. But since the size is small and fixed, so I didn't implement a sorting algorithm since it is tedious in C.
 
 1. Sort the three numbers first

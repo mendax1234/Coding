@@ -37,3 +37,5 @@
   * [Baby Bites](kattis/easy/baby-bites.md)
   * [Babylonian Numbers](kattis/easy/babylonian-numbers.md)
   * [ABC](kattis/easy/abc.md)
+  * [Aldur](kattis/easy/aldur.md)
+  * [Backspace](kattis/easy/backspace.md)
