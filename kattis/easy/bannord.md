@@ -51,7 +51,7 @@ void replace(char *line, long pos)
 {% endcode %}
 
 {% hint style="info" %}
-Notice that whenever do the string manipulation, use an `index` integer and pay attention to the **edge cases**. Usually, these edge cases should be put at the first part of the `&&` operator for "short circuiting" reasons
+Notice that whenever do the string manipulation, use an `index` integer and pay attention to the **edge cases**. Usually, these edge cases should be put at the first part of the `&&` operator for [Short-Circuiting](https://app.gitbook.com/s/KipySCGxC8NC1UpA24DS/lec-tut-lab-exes/lecture/lec-04-conditionals#short-circuiting "mention") reasons.
 {% endhint %}
 
 ### Code
