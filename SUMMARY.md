@@ -42,3 +42,4 @@
   * [Bannorð](kattis/easy/bannord.md)
   * [Barcelona](kattis/easy/barcelona.md)
   * [Basketball One-on-One](kattis/easy/basketball-one-on-one.md)
+  * [Batter Up](kattis/easy/batter-up.md)
