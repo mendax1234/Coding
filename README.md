@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 34**
+**Total Problems Solved: 35**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -42,3 +42,4 @@ And there is another separate repository to store the code for each probelm. You
 | Barcelona             | barcelona           | 1.3        | [barcelona.md](kattis/easy/barcelona.md "mention")                         | C        |
 | Basketball One-on-One | basketballoneonone  | 1.5        | [basketball-one-on-one.md](kattis/easy/basketball-one-on-one.md "mention") | C        |
 | Batter Up             | batterup            | 1.4        | [batter-up.md](kattis/easy/batter-up.md "mention")                         | C        |
+| Beavergnaw            | beavergnaw          | 1.7        | [beavergnaw.md](kattis/easy/beavergnaw.md "mention")                       | C        |
