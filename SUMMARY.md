@@ -44,3 +44,4 @@
   * [Basketball One-on-One](kattis/easy/basketball-one-on-one.md)
   * [Batter Up](kattis/easy/batter-up.md)
   * [Beavergnaw](kattis/easy/beavergnaw.md)
+  * [Bela](kattis/easy/bela.md)
