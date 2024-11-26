@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 37**
+**Total Problems Solved: 38**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -45,3 +45,4 @@ And there is another separate repository to store the code for each probelm. You
 | Beavergnaw            | beavergnaw          | 1.7        | [beavergnaw.md](kattis/easy/beavergnaw.md "mention")                       | C        |
 | Bela                  | bela                | 1.4        | [bela.md](kattis/easy/bela.md "mention")                                   | C        |
 | BergMál               | bergmal             | 1.2        | [bergmal.md](kattis/easy/bergmal.md "mention")                             | C        |
+| Bergur                | bergur              | 1.9-2.0    | [bergur.md](kattis/easy/bergur.md "mention")                               | C        |

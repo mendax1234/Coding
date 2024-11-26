@@ -46,3 +46,4 @@
   * [Beavergnaw](kattis/easy/beavergnaw.md)
   * [Bela](kattis/easy/bela.md)
   * [BergMál](kattis/easy/bergmal.md)
+  * [Bergur\*](kattis/easy/bergur.md)
