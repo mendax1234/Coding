@@ -45,3 +45,4 @@
   * [Batter Up](kattis/easy/batter-up.md)
   * [Beavergnaw](kattis/easy/beavergnaw.md)
   * [Bela](kattis/easy/bela.md)
+  * [BergMál](kattis/easy/bergmal.md)
