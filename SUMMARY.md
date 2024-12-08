@@ -6,7 +6,10 @@
 
 * [Vim](environment-setup/vim.md)
 * [C](environment-setup/c/README.md)
-  * [C Standard Library](environment-setup/c/c-standard-library.md)
+  * [Library](environment-setup/c/library.md)
+* [Java](environment-setup/java/README.md)
+  * [Setup](environment-setup/java/setup.md)
+  * [Java Basic](environment-setup/java/java-basic.md)
 
 ## Kattis
 

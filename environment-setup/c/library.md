@@ -1,10 +1,20 @@
-# C Standard Library
+# Library
+
+## CS1010 Library
+
+The CS1010 input and output library can be found below:
+
+{% @github-files/github-code-block url="https://github.com/nus-cs1010/libcs1010" %}
+
+To use the library on your local pc, please follow this [guide](https://nus-cs1010.github.io/2425-s1/guides/library.html?h=cs1010#clearing-screen).
+
+## C Standard Library
 
 The best way to see how to use a standard libarary function in C is to use Linux Programmer's Manual. The command used is `man <function_name>`.
 
-## Table
+### Table
 
-### string.h
+#### string.h
 
 | Name                                                          | Description                                                                                                                                                | Return Values                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +26,7 @@ The best way to see how to use a standard libarary function in C is to use Linux
 | `char *strchr(const char *s, int c);`                         | The `strchr()` function returns a pointer to the first occurrence of the character `c` in the string `s`.                                                  | The `strchr()` function returns a pointer to the matched character or NULL if the character is not found. The terminating null byte is considered part of the string, so that if c is specified as '\0', the function returns a pointer to the terminator. |
 | `char *strrchr(const char *s, int c);`                        | The `strrchr()` function returns a pointer to the last occurrence of the character `c` in the string `s`.                                                  | The `strrchr()` function return a pointer to the matched character or NULL if the character is not found. The terminating null byte is considered part of the string, so that if c is specified as '\0', the function returns a pointer to the terminator. |
 
-### stdlib.h
+#### stdlib.h
 
 | Name                    | Description                                                                                                                                                                                                                                                                                      | Return Values                           |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
