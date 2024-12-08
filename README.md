@@ -46,3 +46,4 @@ And there is another separate repository to store the code for each probelm. You
 | Bela                  | bela                | 1.4        | [bela.md](kattis/easy/bela.md "mention")                                   | C        |
 | BergMál               | bergmal             | 1.2        | [bergmal.md](kattis/easy/bergmal.md "mention")                             | C        |
 | Bergur                | bergur              | 1.9-2.0    | [bergur.md](kattis/easy/bergur.md "mention")                               | C        |
+| Akureyri              | akureyri            | 1.4        | [akureyri.md](kattis/easy/akureyri.md "mention")                           | C        |

@@ -50,3 +50,4 @@
   * [Bela](kattis/easy/bela.md)
   * [BergMál](kattis/easy/bergmal.md)
   * [Bergur\*](kattis/easy/bergur.md)
+  * [Akureyri\*](kattis/easy/akureyri.md)
