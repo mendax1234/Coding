@@ -7,7 +7,7 @@
 ## Solution
 
 {% hint style="warning" %}
-Use Hash Table Idea to improve this in the future!
+**Future Improvement:** Use Hash Table Idea to improve this in the future!
 {% endhint %}
 
 ### Idea
