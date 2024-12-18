@@ -54,3 +54,4 @@
   * [Best Compromise](kattis/easy/best-compromise.md)
   * [Best Relay Team\*](kattis/easy/best-relay-team.md)
   * [Besta gjöfin](kattis/easy/besta-gjofin.md)
+  * [Betting](kattis/easy/betting.md)
