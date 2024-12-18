@@ -53,3 +53,4 @@
   * [Akureyri\*](kattis/easy/akureyri.md)
   * [Best Compromise](kattis/easy/best-compromise.md)
   * [Best Relay Team\*](kattis/easy/best-relay-team.md)
+  * [Besta gjöfin](kattis/easy/besta-gjofin.md)

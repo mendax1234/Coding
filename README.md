@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 41**
+**Total Problems Solved: 42**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -49,3 +49,4 @@ And there is another separate repository to store the code for each probelm. You
 | Akureyri              | akureyri            | 1.4        | [akureyri.md](kattis/easy/akureyri.md "mention")                           | C        |
 | Best Compromise       | compromise          | 2.0        | [best-compromise.md](kattis/easy/best-compromise.md "mention")             | C        |
 | Best Relay Team       | bestrelayteam       | 1.7        | [best-relay-team.md](kattis/easy/best-relay-team.md "mention")             | C        |
+| Besta gjöfin          | bestagjofin         | 1.3        | [besta-gjofin.md](kattis/easy/besta-gjofin.md "mention")                   | C        |
