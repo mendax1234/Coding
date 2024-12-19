@@ -56,3 +56,4 @@
   * [Besta gjöfin](kattis/easy/besta-gjofin.md)
   * [Betting](kattis/easy/betting.md)
   * [Bijele](kattis/easy/bijele.md)
+  * [Bilað Lyklaborð](kattis/easy/bilad-lyklabord.md)
