@@ -57,3 +57,4 @@
   * [Betting](kattis/easy/betting.md)
   * [Bijele](kattis/easy/bijele.md)
   * [Bilað Lyklaborð](kattis/easy/bilad-lyklabord.md)
+  * [Bitte ein Bit](kattis/easy/bitte-ein-bit.md)
