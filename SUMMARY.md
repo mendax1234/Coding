@@ -61,3 +61,4 @@
   * [Blandað Best](kattis/easy/blandad-best.md)
   * [Blaðra](kattis/easy/bladra.md)
   * [Blaðra2](kattis/easy/bladra2.md)
+  * [Bluetooth\*](kattis/easy/bluetooth.md)
