@@ -60,3 +60,4 @@
   * [Bitte ein Bit](kattis/easy/bitte-ein-bit.md)
   * [Blandað Best](kattis/easy/blandad-best.md)
   * [Blaðra](kattis/easy/bladra.md)
+  * [Blaðra2](kattis/easy/bladra2.md)

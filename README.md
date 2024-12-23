@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 48**
+**Total Problems Solved: 49**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -56,3 +56,4 @@ And there is another separate repository to store the code for each probelm. You
 | Bitte ein Bit         | bitteeinbit         | 1.3        | [bitte-ein-bit.md](kattis/easy/bitte-ein-bit.md "mention")                 | C        |
 | Blandað Best          | blandadbest         | 1.2        | [blandad-best.md](kattis/easy/blandad-best.md "mention")                   | C        |
 | Blaðra                | bladra              | 1.8        | [bladra.md](kattis/easy/bladra.md "mention")                               | C        |
+| Blaðra2               | bladra2             | 1.2        | [bladra2.md](kattis/easy/bladra2.md "mention")                             | C        |
