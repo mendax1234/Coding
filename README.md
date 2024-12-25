@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 51**
+**Total Problems Solved: 52**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -59,3 +59,4 @@ And there is another separate repository to store the code for each probelm. You
 | Blaðra2               | bladra2             | 1.2        | [bladra2.md](kattis/easy/bladra2.md "mention")                             | C        |
 | Bluetooth             | bluetooth           | 2.0        | [bluetooth.md](kattis/easy/bluetooth.md "mention")                         | C        |
 | Booking a Room        | bookingaroom        | 1.7        | [booking-a-room.md](kattis/easy/booking-a-room.md "mention")               | C        |
+| Bottle Opening        | bottleopening       | 1.7        | [bottle-opening.md](kattis/easy/bottle-opening.md "mention")               | C        |

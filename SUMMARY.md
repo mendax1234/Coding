@@ -63,3 +63,4 @@
   * [Blaðra2](kattis/easy/bladra2.md)
   * [Bluetooth\*](kattis/easy/bluetooth.md)
   * [Booking a Room](kattis/easy/booking-a-room.md)
+  * [Bottle Opening](kattis/easy/bottle-opening.md)
