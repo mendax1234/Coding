@@ -64,3 +64,4 @@
   * [Bluetooth\*](kattis/easy/bluetooth.md)
   * [Booking a Room](kattis/easy/booking-a-room.md)
   * [Bottle Opening](kattis/easy/bottle-opening.md)
+  * [Bounding Robots](kattis/easy/bounding-robots.md)
