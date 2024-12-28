@@ -66,3 +66,4 @@
   * [Bottle Opening](kattis/easy/bottle-opening.md)
   * [Bounding Robots](kattis/easy/bounding-robots.md)
   * [Breaking Branches\*](kattis/easy/breaking-branches.md)
+  * [Bracket Matching\*](kattis/easy/bracket-matching.md)
