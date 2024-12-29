@@ -67,3 +67,4 @@
   * [Bounding Robots](kattis/easy/bounding-robots.md)
   * [Breaking Branches\*](kattis/easy/breaking-branches.md)
   * [Bracket Matching\*](kattis/easy/bracket-matching.md)
+  * [Broken Swords](kattis/easy/broken-swords.md)

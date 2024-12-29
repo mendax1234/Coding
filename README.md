@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 55**
+**Total Problems Solved: 56**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -63,3 +63,4 @@ And there is another separate repository to store the code for each probelm. You
 | Bounding Robots       | boundingrobots      | 2.0        | [bounding-robots.md](kattis/easy/bounding-robots.md "mention")             | C        |
 | Breaking Branches     | breakingbranches    | 1.6        | [breaking-branches.md](kattis/easy/breaking-branches.md "mention")         | C        |
 | Bracket Matching      | bracketmatching     | 2.0        | [bracket-matching.md](kattis/easy/bracket-matching.md "mention")           | C        |
+| Broken Swords         | brokenswords        | 1.9        | [broken-swords.md](kattis/easy/broken-swords.md "mention")                 | C        |
