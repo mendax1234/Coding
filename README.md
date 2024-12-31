@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 61**
+**Total Problems Solved: 62**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -69,3 +69,4 @@ And there is another separate repository to store the code for each probelm. You
 | Bus Assignment        | busassignment       | 2.0        | [bus-assignment.md](kattis/easy/bus-assignment.md "mention")               | C        |
 | CPR Number            | cprnummer           | 1.5        | [cpr-number.md](kattis/easy/cpr-number.md "mention")                       | C        |
 | Call for Problems     | callforproblems     | 1.3        | [call-for-problems.md](kattis/easy/call-for-problems.md "mention")         | C        |
+| Canadians, eh?        | canadianseh         | 1.5        | [canadians-eh.md](kattis/easy/canadians-eh.md "mention")                   | C        |
