@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 59**
+**Total Problems Solved: 60**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -28,7 +28,7 @@ And there is another separate repository to store the code for each probelm. You
 | Apaxiaaaaaaaaaaaans!  | apaxiaaans          | 1.5        | [apaxiaaaaaaaaaaaans.md](kattis/easy/apaxiaaaaaaaaaaaans.md "mention")     | C        |
 | Arithmetic Functions  | arithmeticfunctions | 1.7        | [arithmetic-functions.md](kattis/easy/arithmetic-functions.md "mention")   | C        |
 | Arm Coordination      | armcoordination     | 1.7        | [arm-coordination.md](kattis/easy/arm-coordination.md "mention")           | C        |
-| Arrangement           | upprodun            | 1.2-1.6    | [arrangement.md](kattis/easy/arrangement.md "mention")                     | C        |
+| Arrangement           | upprodun            | 1.6        | [arrangement.md](kattis/easy/arrangement.md "mention")                     | C        |
 | Attendance            | attendance2         | 1.8        | [attendance.md](kattis/easy/attendance.md "mention")                       | C        |
 | Autori                | autori              | 1.3        | [autori.md](kattis/easy/autori.md "mention")                               | C        |
 | Average Character     | averagecharacter    | 1.8        | [average-character.md](kattis/easy/average-character.md "mention")         | C        |
@@ -45,7 +45,7 @@ And there is another separate repository to store the code for each probelm. You
 | Beavergnaw            | beavergnaw          | 1.7        | [beavergnaw.md](kattis/easy/beavergnaw.md "mention")                       | C        |
 | Bela                  | bela                | 1.4        | [bela.md](kattis/easy/bela.md "mention")                                   | C        |
 | BergMál               | bergmal             | 1.2        | [bergmal.md](kattis/easy/bergmal.md "mention")                             | C        |
-| Bergur                | bergur              | 1.9-2.0    | [bergur.md](kattis/easy/bergur.md "mention")                               | C        |
+| Bergur                | bergur              | 2.0        | [bergur.md](kattis/easy/bergur.md "mention")                               | C        |
 | Akureyri              | akureyri            | 1.4        | [akureyri.md](kattis/easy/akureyri.md "mention")                           | C        |
 | Best Compromise       | compromise          | 2.0        | [best-compromise.md](kattis/easy/best-compromise.md "mention")             | C        |
 | Best Relay Team       | bestrelayteam       | 1.7        | [best-relay-team.md](kattis/easy/best-relay-team.md "mention")             | C        |
@@ -67,3 +67,4 @@ And there is another separate repository to store the code for each probelm. You
 | Building Pyramids     | pyramids            | 1.5        | [building-pyramids.md](kattis/easy/building-pyramids.md "mention")         | C        |
 | Bus                   | bus                 | 1.8        | [bus.md](kattis/easy/bus.md "mention")                                     | C        |
 | Bus Assignment        | busassignment       | 2.0        | [bus-assignment.md](kattis/easy/bus-assignment.md "mention")               | C        |
+| CPR Number            | cprnummer           | 1.5        | [cpr-number.md](kattis/easy/cpr-number.md "mention")                       | C        |

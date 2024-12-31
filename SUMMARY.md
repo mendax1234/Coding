@@ -71,3 +71,4 @@
   * [Building Pyramids](kattis/easy/building-pyramids.md)
   * [Bus](kattis/easy/bus.md)
   * [Bus Assignment](kattis/easy/bus-assignment.md)
+  * [CPR Number](kattis/easy/cpr-number.md)
