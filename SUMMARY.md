@@ -70,3 +70,4 @@
   * [Broken Swords](kattis/easy/broken-swords.md)
   * [Building Pyramids](kattis/easy/building-pyramids.md)
   * [Bus](kattis/easy/bus.md)
+  * [Bus Assignment](kattis/easy/bus-assignment.md)
