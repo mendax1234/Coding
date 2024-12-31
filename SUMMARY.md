@@ -72,3 +72,4 @@
   * [Bus](kattis/easy/bus.md)
   * [Bus Assignment](kattis/easy/bus-assignment.md)
   * [CPR Number](kattis/easy/cpr-number.md)
+  * [Call for Problems](kattis/easy/call-for-problems.md)
