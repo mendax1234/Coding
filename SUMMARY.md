@@ -75,3 +75,4 @@
   * [Call for Problems](kattis/easy/call-for-problems.md)
   * [Canadians, eh?](kattis/easy/canadians-eh.md)
   * [Candy Store](kattis/easy/candy-store.md)
+  * [Cetiri](kattis/easy/cetiri.md)
