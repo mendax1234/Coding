@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 64**
+**Total Problems Solved: 65**
 
 | Problem Name          | Problem ID          | Difficulty | Explanation                                                                | Language |
 | --------------------- | ------------------- | ---------- | -------------------------------------------------------------------------- | -------- |
@@ -72,3 +72,4 @@ And there is another separate repository to store the code for each probelm. You
 | Canadians, eh?        | canadianseh         | 1.5        | [canadians-eh.md](kattis/easy/canadians-eh.md "mention")                   | C        |
 | Candy Store           | candystore          | 1.5        | [candy-store.md](kattis/easy/candy-store.md "mention")                     | C        |
 | Cetiri                | cetiri              | 1.7        | [cetiri.md](kattis/easy/cetiri.md "mention")                               | C        |
+| Cetvrta               | cetvrta             | 1.4        | [cetvrta.md](kattis/easy/cetvrta.md "mention")                             | C        |

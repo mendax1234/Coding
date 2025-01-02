@@ -76,3 +76,4 @@
   * [Canadians, eh?](kattis/easy/canadians-eh.md)
   * [Candy Store](kattis/easy/candy-store.md)
   * [Cetiri](kattis/easy/cetiri.md)
+  * [Cetvrta](kattis/easy/cetvrta.md)
