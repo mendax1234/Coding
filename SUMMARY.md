@@ -2,14 +2,14 @@
 
 * [Welcome](README.md)
 
-## Environment Setup
+## Baisc Knowledge
 
-* [Vim](environment-setup/vim.md)
-* [C](environment-setup/c/README.md)
-  * [Library](environment-setup/c/library.md)
-* [Java](environment-setup/java/README.md)
-  * [Setup](environment-setup/java/setup.md)
-  * [Java Basic](environment-setup/java/java-basic.md)
+* [Vim](baisc-knowledge/vim.md)
+* [C](baisc-knowledge/c/README.md)
+  * [Library](baisc-knowledge/c/library.md)
+* [Java](baisc-knowledge/java/README.md)
+  * [Setup](baisc-knowledge/java/setup.md)
+  * [Java Basic](baisc-knowledge/java/java-basic.md)
 
 ## Kattis
 
@@ -77,3 +77,4 @@
   * [Candy Store](kattis/easy/candy-store.md)
   * [Cetiri](kattis/easy/cetiri.md)
   * [Cetvrta](kattis/easy/cetvrta.md)
+  * [Champernowne Verification](kattis/easy/champernowne-verification.md)

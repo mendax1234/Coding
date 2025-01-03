@@ -13,7 +13,7 @@ This is another pretty awesome question about **string manipulation**! My idea i
 1. Iterate through each forbidden letter in the line
 2. replace the words with '\*'
 
-To implement this idea, I have used `strchr()` in the `<string.h>` from the [library.md](../../environment-setup/c/library.md "mention"). And one of the major functions `find_and_replace()` will do the work of finding the location of the first occurence of the forbidden letter. Use the property of `strchr()`, we will do the [Pointer Arithmetic](https://app.gitbook.com/s/KipySCGxC8NC1UpA24DS/lec-tut-lab-exes/lecture/lec-07-pointers-memory-management#pointer-arithmetic "mention") to get the position of this letter in our line. And call the `replace()` function to replace the entire word with `*`.
+To implement this idea, I have used `strchr()` in the `<string.h>` from the [library.md](../../baisc-knowledge/c/library.md "mention"). And one of the major functions `find_and_replace()` will do the work of finding the location of the first occurence of the forbidden letter. Use the property of `strchr()`, we will do the [Pointer Arithmetic](https://app.gitbook.com/s/KipySCGxC8NC1UpA24DS/lec-tut-lab-exes/lecture/lec-07-pointers-memory-management#pointer-arithmetic "mention") to get the position of this letter in our line. And call the `replace()` function to replace the entire word with `*`.
 
 {% code lineNumbers="true" %}
 ```c
