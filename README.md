@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 66**
+**Total Problems Solved: 67**
 
 | Problem Name              | Problem ID               | Difficulty | Explanation                                                                        | Language |
 | ------------------------- | ------------------------ | ---------- | ---------------------------------------------------------------------------------- | -------- |
@@ -74,3 +74,4 @@ And there is another separate repository to store the code for each probelm. You
 | Cetiri                    | cetiri                   | 1.7        | [cetiri.md](kattis/easy/cetiri.md "mention")                                       | C        |
 | Cetvrta                   | cetvrta                  | 1.4        | [cetvrta.md](kattis/easy/cetvrta.md "mention")                                     | C        |
 | Champernowne Verification | champernowneverification | 1.5        | [champernowne-verification.md](kattis/easy/champernowne-verification.md "mention") | C        |
+| Chanukah Challenge        | chanukah                 | 1.4        | [chanukah-challenge.md](kattis/easy/chanukah-challenge.md "mention")               | C        |
