@@ -82,3 +82,4 @@
   * [Chardonnay](kattis/easy/chardonnay.md)
   * [Chocolate Division\*](kattis/easy/chocolate-division.md)
   * [Chugging](kattis/easy/chugging.md)
+  * [Cinema Crowds 2](kattis/easy/cinema-crowds-2.md)

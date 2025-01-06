@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 69**
+**Total Problems Solved: 70**
 
 | Problem Name              | Problem ID               | Difficulty | Explanation                                                                        | Language |
 | ------------------------- | ------------------------ | ---------- | ---------------------------------------------------------------------------------- | -------- |
@@ -78,3 +78,4 @@ And there is another separate repository to store the code for each probelm. You
 | Chardonnay                | chardonnay               | 1.4        | [chardonnay.md](kattis/easy/chardonnay.md "mention")                               | C        |
 | Chocolate Division        | chocolatedivision        | 1.8        | [chocolate-division.md](kattis/easy/chocolate-division.md "mention")               | C        |
 | Chugging                  | chugging                 | 1.6        | [chugging.md](kattis/easy/chugging.md "mention")                                   | C        |
+| Cinema Crowds 2           | cinema2                  | 1.9        | [cinema-crowds-2.md](kattis/easy/cinema-crowds-2.md "mention")                     | C        |
