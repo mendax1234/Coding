@@ -8,11 +8,13 @@
 
 ### Idea
 
-This is a pretty awesome problem! At first, I thought it was a **recursion** problem, but can be optimized by **dynamic programming**. But after some searching, I found it is **brain teaser** (legit) :joy:. And it needs some thinking to come up with the $$O(1)$$ solution.
+This is a pretty awesome problem! At first, I thought it was a **recursion** problem, but can be optimized by **dynamic programming**. But after some searching, I found it is **brain teaser** a.k.a **pattern recognition** (legit) :joy:. And it needs some thinking to come up with the $$O(1)$$ solution.
 
 Firstly, for a certain length of branch, the winning status will invert. For example, with length 2, if it's Alice's turn, Alice will win. However, if it's Bob's turn, Alice will lose (a.k.a Bob will win).
 
 With this information, we can start finding the pattern.
+
+#### Method 1: Mathematical Induction
 
 <figure><picture><source srcset="../../.gitbook/assets/kattis-breakingbranches-dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/kattis-breakingbranches-light.png" alt=""></picture><figcaption></figcaption></figure>
 
@@ -31,6 +33,13 @@ In this example diagram, we can find the following patterns
 {% hint style="info" %}
 The formal proof for the pattern 2 needs [mathematical induction](https://app.gitbook.com/s/KipySCGxC8NC1UpA24DS/lec-tut-lab-exes/lab/lab-02#mathematical-induction).
 {% endhint %}
+
+#### Method 2: The idea of `total_cuts`
+
+Using the idea of `total_cuts` from [chocolate-division.md](chocolate-division.md "mention"), the question is similar. For a given length `l` branch, we have `l-1` number of available cuts in total. So, now the pattern is easy to understand:
+
+1. If `total_cuts` is odd, Alice will confirm win with first step cutting by 1.
+2. Otherwise, Bob will win.
 
 ### Code
 
