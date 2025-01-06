@@ -80,3 +80,4 @@
   * [Champernowne Verification](kattis/easy/champernowne-verification.md)
   * [Chanukah Challenge](kattis/easy/chanukah-challenge.md)
   * [Chardonnay](kattis/easy/chardonnay.md)
+  * [Chocolate Division\*](kattis/easy/chocolate-division.md)

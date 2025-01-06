@@ -76,3 +76,4 @@ And there is another separate repository to store the code for each probelm. You
 | Champernowne Verification | champernowneverification | 1.5        | [champernowne-verification.md](kattis/easy/champernowne-verification.md "mention") | C        |
 | Chanukah Challenge        | chanukah                 | 1.4        | [chanukah-challenge.md](kattis/easy/chanukah-challenge.md "mention")               | C        |
 | Chardonnay                | chardonnay               | 1.4        | [chardonnay.md](kattis/easy/chardonnay.md "mention")                               | C        |
+| Chocolate Division        | chocolatedivision        | 1.8        | [chocolate-division.md](kattis/easy/chocolate-division.md "mention")               | C        |
