@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 71**
+**Total Problems Solved: 72**
 
 | Problem Name              | Problem ID               | Difficulty | Explanation                                                                        | Language |
 | ------------------------- | ------------------------ | ---------- | ---------------------------------------------------------------------------------- | -------- |
@@ -80,3 +80,4 @@ And there is another separate repository to store the code for each probelm. You
 | Chugging                  | chugging                 | 1.6        | [chugging.md](kattis/easy/chugging.md "mention")                                   | C        |
 | Cinema Crowds 2           | cinema2                  | 1.9        | [cinema-crowds-2.md](kattis/easy/cinema-crowds-2.md "mention")                     | C        |
 | Class Field Trip          | classfieldtrip           | 1.4        | [class-field-trip.md](kattis/easy/class-field-trip.md "mention")                   | C        |
+| ASCII Kassi 2             | asciikassi2              | 2.0        |                                                                                    | C        |
