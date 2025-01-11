@@ -85,3 +85,4 @@
   * [Cinema Crowds 2](kattis/easy/cinema-crowds-2.md)
   * [Class Field Trip](kattis/easy/class-field-trip.md)
   * [ASCII Kassi 2](kattis/easy/ascii-kassi-2.md)
+  * [Coffee Cup Combo](kattis/easy/coffee-cup-combo.md)
