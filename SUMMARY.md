@@ -87,3 +87,4 @@
   * [ASCII Kassi 2](kattis/easy/ascii-kassi-2.md)
   * [Coffee Cup Combo](kattis/easy/coffee-cup-combo.md)
   * [Cold-puter Science](kattis/easy/cold-puter-science.md)
+  * [Composed Rhythms](kattis/easy/composed-rhythms.md)
