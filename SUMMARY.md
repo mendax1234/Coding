@@ -88,3 +88,4 @@
   * [Coffee Cup Combo](kattis/easy/coffee-cup-combo.md)
   * [Cold-puter Science](kattis/easy/cold-puter-science.md)
   * [Composed Rhythms](kattis/easy/composed-rhythms.md)
+  * [Cookies](kattis/easy/cookies.md)
