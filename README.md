@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 76**
+**Total Problems Solved: 77**
 
 | Problem Name              | Problem ID               | Difficulty | Explanation                                                                        | Language |
 | ------------------------- | ------------------------ | ---------- | ---------------------------------------------------------------------------------- | -------- |
@@ -85,3 +85,4 @@ And there is another separate repository to store the code for each probelm. You
 | Cold-puter Science        | cold                     | 1.3        | [cold-puter-science.md](kattis/easy/cold-puter-science.md "mention")               | C        |
 | Composed Rhythms          | composedrhythms          | 1.5        | [composed-rhythms.md](kattis/easy/composed-rhythms.md "mention")                   | C        |
 | Cookies                   | kakor                    | 1.7        | [cookies.md](kattis/easy/cookies.md "mention")                                     | C        |
+| Cooking Water             | cookingwater             | 2.0        | [cooking-water.md](kattis/easy/cooking-water.md "mention")                         | C        |

@@ -89,3 +89,4 @@
   * [Cold-puter Science](kattis/easy/cold-puter-science.md)
   * [Composed Rhythms](kattis/easy/composed-rhythms.md)
   * [Cookies](kattis/easy/cookies.md)
+  * [Cooking Water](kattis/easy/cooking-water.md)
