@@ -90,3 +90,4 @@
   * [Composed Rhythms](kattis/easy/composed-rhythms.md)
   * [Cookies](kattis/easy/cookies.md)
   * [Cooking Water](kattis/easy/cooking-water.md)
+  * [Cornhusker](kattis/easy/cornhusker.md)
