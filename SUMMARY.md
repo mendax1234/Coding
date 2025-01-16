@@ -91,3 +91,4 @@
   * [Cookies](kattis/easy/cookies.md)
   * [Cooking Water](kattis/easy/cooking-water.md)
   * [Cornhusker](kattis/easy/cornhusker.md)
+  * [Cosmic Path Optimization](kattis/easy/cosmic-path-optimization.md)
