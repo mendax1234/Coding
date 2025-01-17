@@ -92,3 +92,4 @@
   * [Cooking Water](kattis/easy/cooking-water.md)
   * [Cornhusker](kattis/easy/cornhusker.md)
   * [Cosmic Path Optimization](kattis/easy/cosmic-path-optimization.md)
+  * [Count the Vowels](kattis/easy/count-the-vowels.md)

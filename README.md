@@ -8,7 +8,7 @@ And there is another separate repository to store the code for each probelm. You
 
 ## Kattis
 
-**Total Problems Solved: 79**
+**Total Problems Solved: 80**
 
 | Problem Name                      | Problem ID               | Difficulty | Explanation                                                                        | Language |
 | --------------------------------- | ------------------------ | ---------- | ---------------------------------------------------------------------------------- | -------- |
@@ -88,3 +88,4 @@ And there is another separate repository to store the code for each probelm. You
 | Cooking Water                     | cookingwater             | 2.0        | [cooking-water.md](kattis/easy/cooking-water.md "mention")                         | C        |
 | Cornhusker                        | cornhusker               | 1.7        | [cornhusker.md](kattis/easy/cornhusker.md "mention")                               | C        |
 | <h4>Cosmic Path Optimization</h4> | cosmicpathoptimization   | 1.3        | [cosmic-path-optimization.md](kattis/easy/cosmic-path-optimization.md "mention")   | C        |
+| Count the Vowels                  | countthevowels           | 1.3        | [count-the-vowels.md](kattis/easy/count-the-vowels.md "mention")                   | C        |
